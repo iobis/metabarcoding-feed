@@ -1,4 +1,4 @@
-name: Generate feed
+name: Generate feeds
 
 on:
   workflow_dispatch:
